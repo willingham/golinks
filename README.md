@@ -15,7 +15,7 @@ The following tools/frameworks are used:
 
 ## Capabilities
 The following endpoints are available:
-`GET /links`: Returns a list of available golinks
-`POST /<go_slug> <destination>`: Creates a golink
-`GET /<go_slug>`: Redirects to a golink if it exists
-`DELETE /<go_slug>`: Deletes an existing golink if it exists
+- `GET /links`: Returns a list of available golinks
+- `POST /<go_slug> <destination>`: Creates a golink
+- `GET /<go_slug>`: Redirects to a golink if it exists
+- `DELETE /<go_slug>`: Deletes an existing golink if it exists
